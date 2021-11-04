@@ -16,10 +16,11 @@ rdJPEG is a small cross-platform C library to read and convert JPEG images
 * Requires GCC (and the accompanying toolchain)
 * Requires GNU make
 
-# To compile/build the jpeg library, run
+# Instructions
+* To compile/build the jpeg library, run:
 make jpglib
 
-# To also compile/build the utility program (jpg2bmp) run
+* To also compile/build the utility program (jpg2bmp), run:
 make all
 
 # That's all folks.
